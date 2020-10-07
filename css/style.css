@@ -156,6 +156,7 @@ header p{
     /* Move the navigation so that the nav is aligned to
     the other side of the window */
     vertical-align: middle;
+    text-align: right;
   }
 
   .container{
